@@ -2,21 +2,19 @@
 
 A machine intelligence that uses HTM to memorize music in associative memory.
 
-Machine Intelligence Watanabe is reminded of the whole song when he hears a part of it.
+Machine Intelligence Watanabe is reminded of the whole song when he hears a part of it.It doesn't matter if some of the music is a little out of tune or out of tempo.
 
-It doesn't matter if some of the music is a little out of tune or out of tempo.
-
-**test Midi**
+**Test Midi**
 
 ![testMidi.png](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/testMidi.png)
 
-[play SoundCloud](https://soundcloud.com/toshio-ohta/testmidi)
+[Play SoundCloud](https://soundcloud.com/toshio-ohta/testmidi)
 
-**predict Midi**
+**Predict Midi**
 
 ![predictMidi.png](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/predictMidi.png)
 
-[play SoundCloud](https://soundcloud.com/toshio-ohta/predictmidi)
+[Play SoundCloud](https://soundcloud.com/toshio-ohta/predictmidi)
 
 ## How it works
 
