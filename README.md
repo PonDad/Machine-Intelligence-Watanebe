@@ -4,11 +4,11 @@ Machine Intelligence Watanabe is reminded of the whole song when he hears a part
 
 ![1.png](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/1.png)
 
-**🎹 Test Midi**
+**🎹 Input Midi pharase**
 
 ![2.png](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/2.png)
 
-**🎹 Predict Midi**
+**🎹 Output Midi pharase**
 
 ![3.png](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/3.png)
 
