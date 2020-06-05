@@ -1,6 +1,6 @@
 # Machine-Intelligence-Watanebe
 
-Machine Intelligence Watanabe is reminded of the whole song when he hears a part of it.It doesn't matter if some of the music is a little out of tune or out of tempo.
+Machine Intelligence Watanabe is reminded of a phrase in the music that follows.
 
 ![1.png](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/1.png)
 
