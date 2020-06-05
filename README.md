@@ -43,7 +43,7 @@ Extract the data with "Music21".
 
 ### Encode
 
-Converts "Mudi number" and "Quarter length" to SDR format.
+Converts "MIDI note number" and "Quarter length" to SDR format.
 
 ![6.gif](https://github.com/PonDad/Machine-Intelligence-Watanebe/blob/master/data/6.gif)
 
